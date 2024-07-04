@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\CleanArch\CleanArch.Core\obj\Debug\CleanArch.Core.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CleanArch\CleanArch.Core\obj\Debug\CleanArch.Core.csproj.CoreCompileInputs.cache

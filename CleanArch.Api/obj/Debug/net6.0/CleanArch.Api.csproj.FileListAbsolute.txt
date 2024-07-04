@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CleanArch\CleanArch.Api\obj\Debug\net6.0\CleanArch.Api.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CleanArch\CleanArch.Api\obj\Debug\net6.0\CleanArch.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CleanArch\CleanArch.Api\obj\Debug\net6.0\CleanArch.Api.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CleanArch\CleanArch.Api\obj\Debug\net6.0\CleanArch.Api.AssemblyInfo.cs
+C:\Users\admin\source\repos\CleanArch\CleanArch.Api\obj\Debug\net6.0\CleanArch.Api.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CleanArch\CleanArch.Api\obj\Debug\net6.0\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\source\repos\CleanArch\CleanArch.Api\obj\Debug\net6.0\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cache
